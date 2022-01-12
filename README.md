@@ -6,7 +6,7 @@
 ### <div align="center">I'm Frank, a half-time half-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [CIDP](https://www.cidp.edu.cn/)  
   
 
 - 🌱 I’m currently learning Vue.js and TypeScirpt  
