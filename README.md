@@ -6,10 +6,10 @@
 ### <div align="center">I'm Frank, a half-time half-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
-- 🔭 I’m currently working on [CIDP](https://www.cidp.edu.cn/)  
+- 🔭 I’m currently working on school
   
 
-- 🌱 I’m currently learning Vue.js and TypeScirpt  
+- 🌱 I’m currently learning Python and Deep Learning
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
